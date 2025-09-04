@@ -1,0 +1,19 @@
+{
+    "name": "synergy-string-builder",
+    "version": "0.0.2",
+    "scripts": {
+        "build": "weweb build",
+        "serve": "weweb serve"
+    },
+    "devDependencies": {
+        "@vue/eslint-config-prettier": "^9.0.0",
+        "@weweb/cli": "latest",
+        "eslint": "^9.8.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "eslint-plugin-vue": "^9.27.0",
+        "prettier": "^3.3.3"
+    },
+    "dependencies": {
+        "lucide-vue-next": "^0.456.0"
+    }
+}
